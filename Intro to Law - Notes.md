@@ -1,6 +1,6 @@
 # Introduction to Law
 
-Last edited time: February 28, 2024 1:02 PM
+Last edited time: February 28, 2024 1:29 PM
 Tag: Chula
 Course No.: 3404117
 Lecturer: อ. https://www.law.chula.ac.th/profile/7620/ | Lect. Poomrapree Bannakarn (PBK)
