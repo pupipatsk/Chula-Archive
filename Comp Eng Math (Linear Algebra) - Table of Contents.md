@@ -1,3 +1,4 @@
+# Table of Contents
   - Vectors, Mappings, and Linearity 
     - Numeric Vectors 
     - Functions 
