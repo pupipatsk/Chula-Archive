@@ -1,0 +1,49 @@
+  - Vectors, Mappings, and Linearity 
+    - Numeric Vectors 
+    - Functions 
+    - Mappings and Transformations 
+    - Linearity 
+    - The Matrix of a Linear Transformation 
+  - Solving Linear Systems 
+    - The Linear System 
+    - The Augmented Matrix and RRE Form 
+    - Homogeneous Systems in RRE Form 
+    - Inhomogeneous Systems in RRE Form 
+    - The Gauss–Jordan Algorithm 
+    - Two Mapping Answers 
+  - Linear Geometry 
+    - Geometric Vectors 
+    - Geometric/Numeric Duality 
+    - Dot-Product Geometry 
+    - Lines, Planes, and Hyperplanes 
+    - System Geometry and Row/Column Duality 
+  - The Algebra of Matrices 
+    - Matrix Operations 
+    - Special Matrices 
+    - Matrix Inversion 
+    - A Logical Digression 
+    - The Logic of the Inversion Algorithm 
+    - Determinants 
+  - Subspaces 
+    - Basic Examples and Definitions 
+    - Spans and Perps 
+    - Nullspace 
+    - Column-Space 
+    - Perp/Span Conversion 
+    - Independence 
+    - Basis 
+    - Dimension and Rank 
+  - Orthogonality 
+    - Orthocomplements 
+    - Four Subspaces, 16 Questions 
+    - Orthonormal Bases 
+    - The Gram–Schmidt Algorithm
+- Linear Transformation
+	- Kernel and Image
+	- The Linear Rank Theorem
+	- Eigenspaces
+	- Eigenvalues and Eigenvectors
+	- Diagonalizability and the Spectral Theorem
+	- Singular Value Decomposition (SVD)
+	- Pseudo Inverse
+	- Linear Least Square
