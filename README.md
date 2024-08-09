@@ -9,8 +9,7 @@ Archived documents at Chulalongkorn University
 - [Algorithm Design](https://github.com/pupipatsk/Algorithm-Design.git)
   - [Graph - Summary Note](https://github.com/pupipatsk/Algorithm-Design/blob/46a0a1c3c14f6bbfff9648cb774a8e419f12467c/Summary/Graph.md)
 - [Embedded System Lab](https://github.com/pupipatsk/Embedded-Sys-Lab.git)
-- Embedded-Sys-Lab-Final-Project
-    - [Prohibited Parking Alert System](https://github.com/pupipatsk/Embedded-Sys-Lab-Final-Project.git)
+  - Final Project: [Prohibited Parking Alert System](https://github.com/pupipatsk/Embedded-Sys-Lab-Final-Project.git)
 - [Programming Languages Principle](https://github.com/pupipatsk/Prog-Lang-Prin.git)
 - [Data Structures](https://github.com/pupipatsk/Data-Structures.git)
 - [Programming Methodology](https://github.com/pupipatsk/Prog-Meth.git)
