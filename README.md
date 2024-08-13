@@ -2,6 +2,8 @@
 Archived documents at Chulalongkorn University
 
 ## Course
+- [Pattern Recognition](https://github.com/pupipatsk/Pattern-Recognition.git)
+  - Final Project: [Stock Return Forecasting ML and LSTM](https://github.com/pupipatsk/Stock-Return-Forecasting-ML-and-LSTM.git)
 - Introduction to Law
   - [Summary Note](https://github.com/pupipatsk/Chula-Archive/blob/f169cdf05f7d259316606076b90681197af5fa70/Intro%20to%20Law%20-%20Notes.pdf)
 - Introduction to EU Integration
