@@ -1,7 +1,7 @@
 # Chula Archive
 Archived documents at Chulalongkorn University
 
-## Course
+## Courses
 - [Pattern Recognition](https://github.com/pupipatsk/Pattern-Recognition.git)
   - Final Project: [Stock Return Forecasting ML and LSTM](https://github.com/pupipatsk/Stock-Return-Forecasting-ML-and-LSTM.git)
 - Introduction to Law
