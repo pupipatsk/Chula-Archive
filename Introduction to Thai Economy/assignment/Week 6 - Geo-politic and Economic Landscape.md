@@ -19,6 +19,12 @@
     ref: [https://www.weforum.org/publications/global-risks-report-2024/digest/](https://www.weforum.org/publications/global-risks-report-2024/digest/)
     
 4. นิสิตคิดว่าปัญหาความขัดแย้งทางการค้าระหว่าง US-China และ EU-china มีผลกระทบเชิงบวกหรือเชิงลบต่อประเทศไทยอย่างไรบ้าง
+    1. positive:
+        1. โอกาสในการเป็นฐานการผลิต
+        2. การส่งออกที่เพิ่มขึ้น
+    2. negative:
+        1. การชะลอตัวของการค้าโลก
+        2. การแข่งขันกับประเทศอื่นเพิ่มขึ้น
 5. European green deal มีสาระสำคัญอย่างไร และส่งผลต่อประเทศในยุโรปและประเทศคู่ค้าของยุโรปอย่างไร
     1. สาระสำคัญ:
         1. no net emissions of greenhouse gases by 2050
