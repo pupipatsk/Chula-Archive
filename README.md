@@ -9,6 +9,7 @@ Archived documents at Chulalongkorn University
 - Introduction to Thai Economy
 - [Pattern Recognition](https://github.com/pupipatsk/Pattern-Recognition.git)
   - Final Project: [Stock Return Forecasting ML and LSTM](https://github.com/pupipatsk/Stock-Return-Forecasting-ML-and-LSTM.git)
+- [Natural Language Processing Systems](https://github.com/pupipatsk/NLP.git)
 - [Algorithm Design](https://github.com/pupipatsk/Algorithm-Design.git)
   - [Graph - Summary Note](https://github.com/pupipatsk/Algorithm-Design/blob/46a0a1c3c14f6bbfff9648cb774a8e419f12467c/Summary/Graph.md)
 - [Embedded System Lab](https://github.com/pupipatsk/Embedded-Sys-Lab.git)
