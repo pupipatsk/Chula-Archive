@@ -23,6 +23,7 @@ Archived documents at Chulalongkorn University
   - Statistics for Physical Science
 - **Hardware and System Architecture**:
   - [High Performance Architecture](https://github.com/pupipatsk/High-Performance-Architecture.git)
+  - [Operating Systems and System Programs (OS)](https://github.com/pupipatsk/Operating-Systems-and-System-Programs.git)
   - [Computer System Architectures](https://github.com/pupipatsk/Computer-System-Architectures.git)
   - [Hardware Synthesis Lab](https://github.com/pupipatsk/Hardware-Synthesis-Lab.git)
   - [Embedded System Lab](https://github.com/pupipatsk/Embedded-Sys-Lab.git)
@@ -32,6 +33,8 @@ Archived documents at Chulalongkorn University
   - [Algorithm Design](https://github.com/pupipatsk/Algorithm-Design.git)
     - [Graph - Summary Note](https://github.com/pupipatsk/Algorithm-Design/blob/46a0a1c3c14f6bbfff9648cb774a8e419f12467c/Summary/Graph.md)
   - [Data Structures](https://github.com/pupipatsk/Data-Structures.git)
+  - Software Engineering I & II
+    - SE-II Term Project: [Online Book Store Website](https://github.com/seg-org/bookbook.git)
   - [Database Systems](https://github.com/pupipatsk/Database-Systems.git)
   - [Programming Languages Principle](https://github.com/pupipatsk/Prog-Lang-Prin.git)
   - [Programming Methodology](https://github.com/pupipatsk/Prog-Meth.git)
