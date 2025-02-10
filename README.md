@@ -18,7 +18,7 @@ Archived documents at Chulalongkorn University
   - [Computer Engineering Mathematics II](https://github.com/pupipatsk/Comp-Eng-Math-II.git): Signal Processing, Optimization, and Statistics
   - Computer Engineering Mathematics I: Linear Algebra
   - Calculus I & II
-  - Causal Inference and Discover
+  - [Causal Inference and Discovery](Causal-Inference-and-Discovery/)
   - Discrete Structures and Computability
   - Statistics for Physical Science
 - **Hardware and System Architecture**:
