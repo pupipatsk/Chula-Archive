@@ -9,7 +9,7 @@ Archived documents at Chulalongkorn University
     - [Summary Note](https://github.com/pupipatsk/Chula-Archive/blob/f169cdf05f7d259316606076b90681197af5fa70/Intro%20to%20Law%20-%20Notes.pdf)
   - Introduction to EU Integration
     - [Summary Note](https://github.com/pupipatsk/Chula-Archive/blob/f169cdf05f7d259316606076b90681197af5fa70/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD_%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%AB%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%B8%E0%B9%82%E0%B8%A3%E0%B8%9B-Notes.pdf)
-  - Introduction to the Thai Economy
+  - Introduction to Thai Economy
     - Capitalism, Poverty, Economic History of Thai, Macroeconomics, Public Debt, Geopolitics, Financial System, Household Debt, Stock Market, Antitrust, Economic Catch-Up, Tourism, and Aging Society
 - **Artificial Intelligence (AI) and Data Science**:
   - [Pattern Recognition](https://github.com/pupipatsk/Pattern-Recognition.git)
