@@ -15,6 +15,7 @@ Archived documents at Chulalongkorn University
   - [Pattern Recognition](https://github.com/pupipatsk/Pattern-Recognition.git)
     - Final Project: [Stock Return Forecasting ML and LSTM](https://github.com/pupipatsk/Stock-Return-Forecasting-ML-and-LSTM.git)
   - [Natural Language Processing Systems (NLP)](https://github.com/pupipatsk/NLP.git)
+    - Final Project: [*NanoLLaDA*, Fine-tuning Large Language Diffusion Models](https://github.com/pupipatsk/NanoLLaDA.git)
 - **Mathematics**:
   - [Computer Engineering Mathematics II](https://github.com/pupipatsk/Comp-Eng-Math-II.git): Signal Processing, Optimization, and Statistics
   - Computer Engineering Mathematics I: Linear Algebra
