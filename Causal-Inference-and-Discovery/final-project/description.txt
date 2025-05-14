@@ -1,0 +1,13 @@
+# Final Project Description (50%)
+
+**Data set:** [Road accidents list from Y51-58 festival period](https://data.go.th/dataset/item_7d61f508-d2e1-4f0c-8408-dfde29f111f5)
+
+Please answer the following questions and explain in detail how you come up with the answer.  
+> *(Note: I have not personally tested all questions. There might not be a good answer.)*
+
+1. What factors matter the most to the survivability of the person in the accident? (10%)
+2. How much does helmet help survivability in motorcycle accident? (5%)
+3. How much does seatbelt help survivability in car accident? (5%)
+4. Does alcohol factor into survivability given the dataset? (5%)
+5. Does the hospital affect the survivability? (10%)
+6. Any other interesting information you can gain from this dataset? (5%)
