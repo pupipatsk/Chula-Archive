@@ -1,0 +1,101 @@
+# Publication
+
+## Topics
+from prof.
+- Timeseries
+- Non timestamp
+- Prediction
+- Classification
+- Clustering
+- Anomaly detect
+- Pattern
+- Motive discovery
+- Data preprocessing
+from me
+- Agent
+- AutoML
+- Finance
+- NLP
+- Sentiment
+- Deep learning
+- Stock Agent
+- Factor investing
+- Market regime
+- Funds flow
+
+### Rank
+- Fund flow
+    - time lag
+    - clustering
+    - ocean flow
+    - 2d height(flow) map
+    - news
+- AI Hedge fund
+    - Portfolio optimization
+    - Risk management
+    - Financial report
+    - Sentiment
+    - NLP
+    - Deep learning
+- Market clustering
+- AutoML
+- Market regime
+- Timeseries DL
+- Anomaly detection in SET
+
+## Journal
+* Journal of Machine Learning Research (JMLR)
+    * https://www.jmlr.org/
+* VLDB
+* Transactions on Knowledge Discovery from Data (TKDD)
+* Pattern recognition Elsevier
+* IEEE Transactions on Knowledge and Data Engineering
+* KAIS
+* DMKD
+
+- https://www.pm-research.com/content/iijpormgmt
+- https://www.aqr.com/Insights/Research
+- https://www.jstor.org/journal/jfinance
+- https://dl.acm.org/
+
+## Etc.
+- Time-series
+    - Nature
+    - DL Clustering
+    - Embedding
+        - Time2Vec
+        - Cleaning
+    - Multivariate
+    - Hierarchical
+    - Multi-Timescale
+    - Multimodal
+    - Interval
+- Physics Informed Neural Networks (PINNs)
+    - PINNs for Climate Prediction (e.g. PM2.5, rain)
+- Deep learning in economics
+    - Recession
+    - Demand/Supply
+- Commodity/Agricultural
+    - Yield prediction
+    - Weather
+    - Image
+    - Econ
+    - Multistep
+- Finance
+    - Stock Financial Report
+    - Fraud
+    - DataMining Chart Pattern 95pct
+- TimeSeries(StockPrice)+NLP(News)
+
+- https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/
+
+- ทำถึงไหนกันแล้ว
+- แนวทางทำต่อ
+- contribution/ field
+
+## Resources
+- Volume Prediction With Neural Networks [https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2019.00021/full]
+- Spatiotemporal Transformer for Stock Movement Prediction [https://arxiv.org/pdf/2305.03835]
+- S2TNet: Spatio-Temporal Transformer Networks for Trajectory Prediction in Autonomous Driving [https://arxiv.org/pdf/2206.10902]
+- Spatial-Temporal Transformer Networks for Traffic Flow Forecasting [https://arxiv.org/pdf/2001.02908]
+- STORM: A Spatio-Temporal Factor Model Based on Dual Vector Quantized Variational Autoencoders for Financial Trading [https://arxiv.org/pdf/2412.09468]
